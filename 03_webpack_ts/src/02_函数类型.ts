@@ -23,5 +23,5 @@
     //调用函数
     let str1="嘉心糖屁用没有"
     let str2="糖"
-    console.log(searchString(str1,str2))
+    console.log(searchString(str1,str2)) //true
 })()
